@@ -1,11 +1,18 @@
     <html>
         <body>
-        <h1>Bruno Duarte Marcanzoni</h1>
-        <h2>Educação</h2>
+            <h1>Bruno Duarte Marcanzoni</h1>
+            <h2>Educação</h2>
         <ul>
-            <li>Tarquínio Santos (ensino superior completo)
-            <li>Faculdade de Engenharia de Software na Unopar</li>
-        </ul> 
+                <li>Tarquínio Santos (ensino superior completo)
+                <li>Faculdade de Engenharia de Software na Unopar
+                <li>Faculdade de Segurança da informação na Unopar
+                <li>Faculdade de Ciência da Computação na Unopar</li>
+        </ul>    
+            <h3>Experiencia</h3>
+        <ul>
+                <li>
+            
+         
         
         </body>
 
